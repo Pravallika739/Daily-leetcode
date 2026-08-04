@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pravallika739/Daily-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3731-find-missing-elements](https://github.com/Pravallika739/Daily-leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pravallika739/Daily-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Binary Search
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pravallika739/Daily-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
