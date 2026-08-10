@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pravallika739/Daily-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Pravallika739/Daily-leetcode/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/Pravallika739/Daily-leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
