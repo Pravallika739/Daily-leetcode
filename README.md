@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Pravallika739/Daily-leetcode/tree/master/0134-gas-station) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Pravallika739/Daily-leetcode/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Pravallika739/Daily-leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Pravallika739/Daily-leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
