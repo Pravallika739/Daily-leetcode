@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pravallika739/Daily-leetcode/tree/master/0015-3sum) |
 | [0134-gas-station](https://github.com/Pravallika739/Daily-leetcode/tree/master/0134-gas-station) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pravallika739/Daily-leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pravallika739/Daily-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Pravallika739/Daily-leetcode/tree/master/0394-decode-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pravallika739/Daily-leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 <!---LeetCode Topics End-->
