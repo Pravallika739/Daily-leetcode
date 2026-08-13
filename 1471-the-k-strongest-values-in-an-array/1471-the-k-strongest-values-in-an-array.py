@@ -17,7 +17,6 @@ class Solution:
         for i in range(len(a)):
                 d[a[i]]=l[i]
         d=dict(sorted(d.items(),key=lambda x:(-x[1],-x[0])))
-        print(d)
         res=[]
         for i in d:
             while freq[i]>0:
