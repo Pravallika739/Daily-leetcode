@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Pravallika739/Daily-leetcode/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pravallika739/Daily-leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pravallika739/Daily-leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pravallika739/Daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Pravallika739/Daily-leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pravallika739/Daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pravallika739/Daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pravallika739/Daily-leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pravallika739/Daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
 |  |
 | ------- |
