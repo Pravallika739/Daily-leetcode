@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pravallika739/Daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Pravallika739/Daily-leetcode/tree/master/0394-decode-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Pravallika739/Daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
 |  |
 | ------- |
