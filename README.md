@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pravallika739/Daily-leetcode/tree/master/0015-3sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Pravallika739/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Pravallika739/Daily-leetcode/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pravallika739/Daily-leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pravallika739/Daily-leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pravallika739/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pravallika739/Daily-leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pravallika739/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
