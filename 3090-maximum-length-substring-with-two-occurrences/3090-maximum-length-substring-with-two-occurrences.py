@@ -8,9 +8,8 @@ class Solution:
                 d[a[i]]=1
             else:
                 d[a[i]]+=1
-            if d[a[i]]>2:
-                while d[a[i]]>2:
-                    d[a[st]]-=1
-                    st+=1
+            while d[a[i]]>2:
+                d[a[st]]-=1
+                st+=1
             res=max(res,i-st+1)
         return res
