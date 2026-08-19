@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pravallika739/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Pravallika739/Daily-leetcode/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pravallika739/Daily-leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1386-cinema-seat-allocation](https://github.com/Pravallika739/Daily-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Pravallika739/Daily-leetcode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pravallika739/Daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pravallika739/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1386-cinema-seat-allocation](https://github.com/Pravallika739/Daily-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/Pravallika739/Daily-leetcode/tree/master/1695-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pravallika739/Daily-leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pravallika739/Daily-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Pravallika739/Daily-leetcode/tree/master/0134-gas-station) |
+| [1386-cinema-seat-allocation](https://github.com/Pravallika739/Daily-leetcode/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pravallika739/Daily-leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Pravallika739/Daily-leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
